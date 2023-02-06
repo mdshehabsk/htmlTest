@@ -7,7 +7,7 @@ const Nav = () => {
   }
   return (
     <>
-      <nav className="z-50">
+      <nav className="z-50 mb-8">
         <div className=" container h-24  w-screen">
           <div className="flex justify-between items-center w-full h-full ">
             <div className="logo flex-1 font-Poppins text-[20px] text-secondary-color ">
