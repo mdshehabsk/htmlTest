@@ -42,7 +42,7 @@ const Section5 = () => {
               The body becomes sick because of rarely exercise
             </div>
             <div className="bg-white hover:opacity-100 opacity-70 px-8 py-6 rounded-lg  shadow-md hover:-translate-y-1 hover:shadow-lg transition-all my-4 ">
-              Don't give up in order to get a healthy and ideal body
+             Don&apos;t give up in order to get a healthy and ideal body
             </div>
             <div className="bg-white hover:opacity-100 opacity-70 px-8 py-6 rounded-lg shadow-md hover:-translate-y-1 hover:shadow-lg transition-all my-4 ">
               Become addicted to the exercise that is given

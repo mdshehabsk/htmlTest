@@ -27,7 +27,7 @@ const Nav = () => {
             <ul
               className={`absolute ${
                 menuOpen ? "left-0" : "left-[-1000px]"
-              }  top-24  w-full min-h-[300px]  flex flex-col gap-4 px-4 md:static md:flex-row md:items-center md:justify-self-end md:min-h-fit md:w-auto ease-in duration-200 bg-slate-50 md:bg-transparent`}
+              }  top-24  w-full min-h-[300px]  flex flex-col gap-4 px-4 md:static md:flex-row md:items-center md:justify-self-end md:min-h-fit md:w-auto ease-in duration-200 bg-slate-50 md:bg-transparent pt-8 `}
             >
               <li>
                 <a href="#">Home</a>
